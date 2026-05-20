@@ -22,4 +22,16 @@ Create an interactive form that validates user input using JavaScript. The form 
 
 <img width="1591" height="813" alt="Password check requirements" src="https://github.com/user-attachments/assets/26b886e5-9ca0-4428-bf31-666d791f27f1" />
 
+# VS Code - HTML
+
+<img width="1596" height="855" alt="VS Code - HTML" src="https://github.com/user-attachments/assets/db156252-1df6-4e15-a466-b1e715d915da" />
+
+# VS Code - CSS
+
+<img width="1598" height="859" alt="VS Code - CSS" src="https://github.com/user-attachments/assets/215432ea-4450-43c5-ac69-ab331e0967d7" />
+
+# VS Code - JavaScript
+
+<img width="1599" height="858" alt="VS Code - JavaScript" src="https://github.com/user-attachments/assets/7053a606-958f-4481-90e4-8847b4a8795b" />
+
 
